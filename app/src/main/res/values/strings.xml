@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="moviesBaslik">Oppenheimer</string>
+    <string name="dramaYazi">Drama</string>
+    <string name="thrillerYazi">Thriller</string>
+    <string name="biopicYazi">Biopic</string>
+    <string name="directorName">Director : Christopher Nolan</string>
+    <string name="someleadingactorYazi">Some Leading Actor</string>
+    <string name="filmSüre">180 Minute</string>
+    <string name="actors1">Cillian Murphy</string>
+    <string name="actors2">Emily Blunt</string>
+    <string name="actors3">Robert Downey Jr.</string>
+    <string name="button1Yazi">Watch Later</string>
+    <string name="button2Yazi">Watch Now</string>
+    <string name="filmAciklama">American physicist J. Robert Oppenheimer leads the team that develops the atomic bomb. He struggles with the moral consequences of his invention and the burden of responsibility.</string>
+</resources>

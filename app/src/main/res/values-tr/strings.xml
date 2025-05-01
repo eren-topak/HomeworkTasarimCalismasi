@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Filmer</string>
+    <string name="moviesBaslik">Oppenheimer</string>
+    <string name="dramaYazi">Dram</string>
+    <string name="thrillerYazi">Gerilim</string>
+    <string name="biopicYazi">Biyografi</string>
+    <string name="directorName">Yönetmen : Christopher Nolan</string>
+    <string name="someleadingactorYazi">Bazı Başrol Aktörler</string>
+    <string name="filmSüre">180 Dakika</string>
+    <string name="actors1">Cillian Murphy</string>
+    <string name="actors2">Emily Blunt</string>
+    <string name="actors3">Robert Downey Jr.</string>
+    <string name="button1Yazi">Sonra İzle</string>
+    <string name="button2Yazi">Şimdi İzle</string>
+    <string name="filmAciklama">Amerikalı fizikçi J. Robert Oppenheimer atom bombasını geliştiren ekibin başındadır. İcadının ahlaki sonuçları ve sorumluluk yüküyle mücadele eder.</string>
+</resources>
